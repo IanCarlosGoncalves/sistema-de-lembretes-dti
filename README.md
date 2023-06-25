@@ -11,7 +11,7 @@ Meu projeto de Sistema de Lembretes é uma aplicação web que consiste em uma A
    * Banco de dados H2: A escolha do banco de dados H2 foi uma opção adequada para o desenvolvimento inicial e testes do sistema de lembretes, pois é leve e não requer configuração complexa. No entanto, é importante considerar uma solução de banco de dados mais robusta para ambientes de produção, como MySQL, PostgreSQL ou MongoDB, dependendo dos requisitos do sistema.
 #### FRONT-END:
 * Linguagens utilizadas
-   * React: O uso do React para o front-end é foi uma escolha sólida, uma vez que permite criar interfaces de usuário interativas e reativas. O React possui uma comunidade ativa e oferece recursos poderosos, como componentização, gerenciamento de estado eficiente e renderização otimizada.
+   * React: O uso do React para o front-end foi uma escolha sólida, uma vez que permite criar interfaces de usuário interativas e reativas. O React possui uma comunidade ativa e oferece recursos poderosos, como componentização, gerenciamento de estado eficiente e renderização otimizada.
  * Styled Components: Escolhi utilizar Styled Components pois é uma abordagem moderna para estilizar componentes React, fornecendo uma maneira fácil de escrever estilos CSS no próprio componente. Essa abordagem mantém os estilos encapsulados e melhora a manutenção do código.
  * A definição de padrões de cores com base na identidade visual da empresa contribui para uma interface atraente e coesa.
 
